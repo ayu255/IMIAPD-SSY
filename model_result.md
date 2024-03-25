@@ -20,7 +20,7 @@
 
     PSNR 19.86
 
-    ![MRI_flair6197_19.8602352142334_sr.png](model_result//MRI_flair6197_19.8602352142334_sr.png)
+    ![image](model_result//MRI_flair6197_19.8602352142334_sr.png)
 
     
 

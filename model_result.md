@@ -175,19 +175,23 @@ Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction o
 
 
 ![原图](model_result/image11.png)
+
 原图
 
 ![两倍下采再上采](model_result/image12.png)
+
 两倍下采再上采
 
 
 
 ![四倍下采再上采](model_result/image13.png)
+
 四倍下采再上采
 
 
 
 ![八倍下采再上采](model_result/image14.png)
+
 八倍下采再上采
 
     

@@ -16,31 +16,31 @@ LR  HR   SR
 
 **PSNR 19.86**
 
-![image-20240325175615654](model_result.assets\image-20240325175615654.png)
+![image-20240325175615654](model_result.assets/image-20240325175615654.png)
 
 
 
 **PSNR 20.63**
 
-![image-20240325175905182](model_result.assets\image-20240325175905182.png)
+![image-20240325175905182](model_result.assets/image-20240325175905182.png)
 
 
 
 **PSNR 20.36**
 
-![image-20240325175926587](model_result.assets\image-20240325175926587.png)
+![image-20240325175926587](model_result.assets/image-20240325175926587.png)
 
 
 
 **PSNR 24.44**
 
-![image-20240325175943192](model_result.assets\image-20240325175943192.png)
+![image-20240325175943192](model_result.assets/image-20240325175943192.png)
 
 
 
 **PSNR 20.38**
 
-![image-20240325180004762](model_result.assets\image-20240325180004762.png)
+![image-20240325180004762](model_result.assets/image-20240325180004762.png)
 
 
 
@@ -64,31 +64,31 @@ LR  HR   SR
 
 **PSNR 25.42**
 
-![image-20240325180220750](model_result.assets\image-20240325180220750.png)
+![image-20240325180220750](model_result.assets/image-20240325180220750.png)
 
 
 
 **PSNR 24.07**
 
-![image-20240325180232412](model_result.assets\image-20240325180232412.png)
+![image-20240325180232412](model_result.assets/image-20240325180232412.png)
 
 
 
 **PSNR 23.84**
 
-![image-20240325180246715](model_result.assets\image-20240325180246715.png)
+![image-20240325180246715](model_result.assets/image-20240325180246715.png)
 
 
 
 **PSNR 24.28**
 
-![image-20240325180258480](model_result.assets\image-20240325180258480.png)
+![image-20240325180258480](model_result.assets/image-20240325180258480.png)
 
 
 
 **PSNR 25.15**
 
-![image-20240325180310019](model_result.assets\image-20240325180310019.png)
+![image-20240325180310019](model_result.assets/image-20240325180310019.png)
 
 
 
@@ -100,27 +100,27 @@ Super-resolution biomedical imaging via reference-free statistical implicit neur
 
 **原图**
 
-![image-20240325180349942](model_result.assets\image-20240325180349942.png)
+![image-20240325180349942](model_result.assets/image-20240325180349942.png)
 
 
 
 **平均模糊，两倍下采样,使用两种偏移**
 
-![image-20240325180403428](model_result.assets\image-20240325180403428.png)
+![image-20240325180403428](model_result.assets/image-20240325180403428.png)
 
-![image-20240325180407293](model_result.assets\image-20240325180407293.png)
+![image-20240325180407293](model_result.assets/image-20240325180407293.png)
 
 
 
 **迭代5000次,PNSR=32.11SSIM=0.965**
 
-![image-20240325180418054](model_result.assets\image-20240325180418054.png)
+![image-20240325180418054](model_result.assets/image-20240325180418054.png)
 
 
 
 **迭代10000次，PNSR=32.51,SSIM=0.968**
 
-![image-20240325180428742](model_result.assets\image-20240325180428742.png)
+![image-20240325180428742](model_result.assets/image-20240325180428742.png)
 
 迭代5000次大概需要10分组。
 
@@ -136,13 +136,13 @@ Super-Resolution Neural Operator
 
 **HR图像**
 
-![image-20240325180451878](model_result.assets\image-20240325180451878.png)
+![image-20240325180451878](model_result.assets/image-20240325180451878.png)
 
 
 
 **HR图像双三次插值四倍下采样再上采样，PNSR 31.23**
 
-![image-20240325180601325](model_result.assets\image-20240325180601325.png)
+![image-20240325180601325](model_result.assets/image-20240325180601325.png)
 
 
 
@@ -154,9 +154,9 @@ An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neura
 
 **左边原图，右边结果**
 
-![image-20240325180623141](model_result.assets\image-20240325180623141.png)
+![image-20240325180623141](model_result.assets/image-20240325180623141.png)
 
-![image-20240325180627257](model_result.assets\image-20240325180627257.png)
+![image-20240325180627257](model_result.assets/image-20240325180627257.png)
 
 
 
@@ -168,9 +168,9 @@ Single-subject Multi-contrast MRI Super-resolution via Implicit Neural Represent
 
 上面是超分结果，下面是原始的两个序列
 
-![image-20240325180645714](model_result.assets\image-20240325180645714.png)
+![image-20240325180645714](model_result.assets/image-20240325180645714.png)
 
-![image-20240325180649143](model_result.assets\image-20240325180649143.png)
+![image-20240325180649143](model_result.assets/image-20240325180649143.png)
 
 
 
@@ -184,22 +184,28 @@ Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction o
 
 **原图**
 
-![image-20240325180723672](model_result.assets\image-20240325180723672.png)
+![image-20240325180723672](model_result.assets/image-20240325180723672.png)
 
 
 
 **两倍下采再上采**
 
-![image-20240325180729907](model_result.assets\image-20240325180729907.png)
+![image-20240325180729907](model_result.assets/image-20240325180729907.png)
 
 
 
 **四倍下采再上采**
 
-![image-20240325180753927](model_result.assets\image-20240325180753927.png)
+![image-20240325180753927](model_result.assets/image-20240325180753927.png)
 
 
 
 **八倍下采再上采**
 
-![image-20240325180804171](model_result.assets\image-20240325180804171.png)
+![image-20240325180804171](model_result.assets/image-20240325180804171.png)
+
+
+
+
+
+

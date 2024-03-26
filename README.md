@@ -1,3 +1,3 @@
-# DASR
-![image](https://github.com/ayu255/IMIAPD-SSY/blob/main/SR/MRI_flair6197_19.8602352142334_sr.png)
-![flair](SR//MRI_flair6197_19.8602352142334_sr.png)
+IMIAPD-SSY的工作记录
+目前包括
+1.可以作为对比方法的模型

@@ -72,7 +72,7 @@ def save_nii(nii_path:str, np_array,source_nii_path=None):
     
     if source_nii_path!=None:
         source_nii = nib.load(source_nii_path)
-        nii = nib.Nifti1Image(np_array, iffine=source_nii.affine,header=source_nii.header)
+        nii = nib.Nifti1Image(np_array, affine=source_nii.affine,header=source_nii.header)
         nib.save(nii, nii_path)
     else:
         nii = nib.Nifti1Image(np_array, affine=np.eye(4))
